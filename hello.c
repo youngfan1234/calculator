@@ -1,5 +1,13 @@
 #include<stdio.h>
 
+void feature()
+{
+
+  /* develop a new feature */
+
+}
+
+
 void main()
 
 {
